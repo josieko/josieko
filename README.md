@@ -12,6 +12,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=josieko&theme=tokyonight" alt="mystreak"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josieko&hide_progress=true&theme=tokyonight)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/josie11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josie11" height="30" width="40" /></a>
