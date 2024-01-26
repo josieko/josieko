@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=josieko&theme=tokyonight" alt="mystreak"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josieko&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josieko&layout=compact&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
