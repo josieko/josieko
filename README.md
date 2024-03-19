@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josie</h1>
 <h3 align="center">A London-based Front End Developer that loves Design 👩🏼‍💻</h3>
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **josipakukor@gmail.com**
 
