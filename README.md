@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josie</h1>
-<h3 align="center">Front End Developer and Designer</h3>
+<h3 align="center">Front End Developer going Fullstack</h3>
 
-- 🌱 I’m currently learning abut **MobX**
+- 🌱 In the midst of leaning more into **Python**
 
 - 📫 How to reach me **josipakukor@gmail.com**
 
